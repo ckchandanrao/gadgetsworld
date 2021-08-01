@@ -1,0 +1,75 @@
+body {
+  
+    background:url('bl.jpg');
+    margin:0;
+    
+  
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: blue;
+  }
+  
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 60px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: white ;
+    color: black;
+  }
+
+
+  .block1 h3{
+      color:yellowgreen;
+
+  }
+  .block1 h1{
+      text-align: center;
+      font-size: 50px;
+      color:yellow; 
+      text-decoration: underline;
+  }
+  .block1 h4{
+      text-align: center;
+      color:lime;
+
+  }
+  .block1 p{
+    text-align: center;
+    color:red;
+
+  }
+
+  .block2{
+      align-items: center;
+      display:column;
+     
+  }
+  input{
+      font-size: 24px;
+      margin-left: 37%;
+      border-radius:10px;
+      border-color: black;
+      width: 25%;
+
+    
+  }
+
+  .block2 button{
+      margin-left: 45%;
+      border-radius: 30px;
+      font-size: 30px;
+      cursor: pointer;
+      color: white;
+      background-color: blue;
+  }
+ 
+
+  

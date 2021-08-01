@@ -1,0 +1,53 @@
+body{
+    background-image:url('2.jpg');
+    margin:0;
+}
+
+
+.topnav {
+    overflow: hidden;
+    background-color: blue;
+  }
+  
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 60px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: white ;
+    color: black;
+  }
+
+  .block1 h1{
+    text-align: center;
+    color:rgb(231, 158, 22);
+  }
+
+ 
+  input{
+    font-size: 24px;
+    margin-left: 37%;
+    border-radius:10px;
+    border-color: black;
+    width: 25%;
+  }
+  .block2 label{
+  margin-left: 37%;
+  font-size: 30px;
+  color:white;
+  }
+  .block2 button{
+  margin-left:45%;
+  font-size: 25px;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: blue;
+  color: aliceblue;
+}
+
+
